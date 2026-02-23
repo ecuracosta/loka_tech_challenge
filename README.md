@@ -8,7 +8,9 @@ The goal of this challenge deliverable is to demonstrate:
 - Practical handling of real-world issues (permissions/caches in containers, whitelists, lane handling, robust debug paths)
 - A path to cloud execution (Docker + AWS cost estimate)
 
-![Pipeline Architecture](architecture.png)
+!<p align="center">
+  <img src="architecture.jpg" width="1000"/>
+</p>
 
 ---
 
