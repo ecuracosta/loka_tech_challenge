@@ -1,0 +1,14 @@
+{
+  "total_read_pairs": 145032428,
+  "whitelist_passing_pairs": 6720690,
+  "guide_matched_pairs": 3659857,
+  "cells_with_ge1_guide_umi": 7501,
+  "guides": 2,
+  "max_cb_mm": 2,
+  "max_guide_mm": 2,
+  "r1_cb": "0,16",
+  "r2_guide": "31,51",
+  "umi_start": 16,
+  "umi_len": 12,
+  "seed_len": 8
+}
