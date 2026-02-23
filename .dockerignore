@@ -1,0 +1,25 @@
+# Big data / outputs
+data/
+outputs/
+.cache/
+.nextflow/
+work/
+results/
+tmp/
+*.tar
+*.tar.gz
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Python junk
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Git
+.git/

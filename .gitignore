@@ -1,0 +1,24 @@
+# Nextflow
+.nextflow*
+.idea/
+work/
+workflow/work/
+*.html
+report-*.html
+.numba_cache/
+.nextflow/
+.mpl_cache/
+
+# Heavy inputs
+data/
+data/downsampled_fastq/
+data/cache/downloads/
+data/ref/refdata-gex-*/
+ref/star_*/
+
+# Alignment intermediates
+*.sam
+*.bam
+*_STARtmp/
+Log.* 
+SJ.out.tab
