@@ -1,0 +1,40 @@
+name: perturbseq
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pip
+
+  # CLI
+  - ca-certificates
+  - curl
+  - wget
+  - unzip
+  - git
+  - parallel
+  - pigz
+  - seqtk
+
+  # Align / genomics
+  - star
+  - samtools
+  - bedtools
+
+  # Workflow (por ahora lo dejamos, aunque luego lo usemos de verdad)
+  - nextflow
+  - procps-ng
+
+  # Python stack
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - scanpy
+  - anndata
+  - leidenalg
+  - python-igraph
+
+  - pip:
+      - scikit-misc
