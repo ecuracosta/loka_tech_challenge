@@ -74,6 +74,10 @@ The goal of this challenge deliverable is to demonstrate:
   - includes a pragmatic view of compute + storage costs for running this pipeline on AWS
   - sized for typical runs and realistic service choices (Batch/ECS, S3, ECR, logs)
 
+<p align="center">
+  <img src="AWS.jpg" width="1000"/>
+</p>
+
 ---
 
 ## Repository structure (important files)
